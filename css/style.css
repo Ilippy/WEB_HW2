@@ -25,10 +25,11 @@ h1 {
     max-width: 329px;
 }
 
-strong {
-    font-weight: bold;
+.image_container p {
+    margin-top: 5px;
+    font-size: 16px;
 }
 
-p {
-    font-size: 16px;
+strong {
+    font-weight: bold;
 }
